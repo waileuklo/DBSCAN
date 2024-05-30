@@ -1,5 +1,5 @@
 # DBSCAN
-A python implementation of the DBSCAN algorithm.
+A sequential and a parallel python implementation of the DBSCAN algorithm.
 
 # Reference
 [Wikipedia](https://en.wikipedia.org/wiki/DBSCAN)
